@@ -1,0 +1,30 @@
+body
+{
+    background-size: cover;
+}
+
+#start , #status, #object_name
+{
+    font-size: 18px;
+
+}
+
+.heading
+{
+    font-size: 23px;
+    width:100%;
+    margin:0;
+}
+
+canvas
+{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 140px;
+}
+
+input
+{
+   border-radius: 10px;
+   
+}
